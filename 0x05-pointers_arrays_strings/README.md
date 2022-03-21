@@ -16,4 +16,10 @@
 
 8-print_array.c prints n elements of an array of integers, followed by a new line.
 
-9-strcpy.c copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+9-strcpy.c copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+
+100-atoi.c convert a string to an integer.
+
+101-keygen.c a program that generates random valid passwords for the program 101-crackme.
+
+main.h contains all the function prototypes used in this project..
