@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+* main - a = 98
+* Return: an int
+*/
+
 int main(void)
 {
 	int n;
